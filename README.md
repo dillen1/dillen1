@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm dillen and I'm a developer from Sweden</h1>
+<h1 align="left">Hi 👋, I'm dillen and I'm a developer from Sweden</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dillen1&label=Profile%20views&color=0e75b6&style=flat" alt="dillen1" /> </p>
+
+<h3 align="left">About me:</h3>
+<h6 align="left">FiveM Developer</h3>
+<h6 align="left">Web developer</h3>
+<h6 align="left">y</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/dillen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dillen" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCojpat56ZoTya-WACMLbLyA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dillen" height="30" width="40" /></a>
 <a href="https://discord.gg/mK7sRaN2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mK7sRaN2" height="30" width="40" /></a>
 </p>
 
