@@ -2,23 +2,11 @@
 
 ###
 
-###
-
-## About Me
+## Languages
 
 ###
 
-  * IT Student
-  * FiveM Developer
-  * Web developer
-
-###
-
-## Languages and tools
-
-###
-
-[![My Skills](https://skillicons.dev/icons?i=lua,html,css,js,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,svelte,vue,lua,html,css)](https://skillicons.dev)
 
 ###
 
