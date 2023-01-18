@@ -1,5 +1,4 @@
-# Hi 👋! My name is Eric and I'm a developer from Sweden
-
+# Hi 👋, I'm dillen and I'm a developer from Sweden.
 ###
 
 ## About Me
