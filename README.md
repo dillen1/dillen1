@@ -1,11 +1,37 @@
-<h1>Hi 👋, I'm dillen and I'm a developer from Sweden</h1>
-<h3>A passionate frontend developer from India</h3>
+# Hi 👋! I'm dillen and I'm a developer from Sweden
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dillen1&label=Profile%20views&color=0e75b6&style=flat" alt="dillen1" /> </p>
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## About Me
+
+###
+
+  * IT Student
+  * FiveM Developer
+  * Web developer
+
+###
+
+## Languages and tools
+
+###
+
+[![My Skills](https://skillicons.dev/icons?i=lua,html,css,js,vscode,github)](https://skillicons.dev)
+
+###
+
+## Socials
+
+###
+
+<a href="https://linktr.ee/svampbob_" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+</a>
+
+###
+
+![views](https://visitor-badge.laobi.icu/badge?page_id=S.S&")
+
+###
