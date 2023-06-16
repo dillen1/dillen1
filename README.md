@@ -1,17 +1,7 @@
-# Hi 👋, I'm dillen and I'm a developer from Sweden.
+# hello im pro developer from sweden
 ###
 
-## About Me
-
-###
-
-  * FiveM Developer
-  * Frontend Developer
-  * 18 Years
-
-###
-
-## Socials
+## socials
 
 ###
 
@@ -22,7 +12,7 @@
 
 ###
 
-## Languages
+## languages
 
 ###
 
